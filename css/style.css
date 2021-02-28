@@ -1,18 +1,234 @@
-.kartuli-mtavruli {
-	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+/*header*/
+.nav-a {
+	color: #3D58A6;
+	font-size: 22px;
 }
+.color{
+	color: #EE4036;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 49.8px;
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 77.1px;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 18px;
+	margin-top:30.8px;
+	margin-bottom: 76.9px;
+
+}
+/*section#1*/
+.banner{
+	margin-left: 98px;
+}
+/*section#2*/
+.left-block {
+	display: inline-block;
+	width: 570px;
+	background-color: #F2F2F2;
+	padding-top: 11.1px;
+	padding-left: 20.8px;
+
+	margin-left: 98px;
+	margin-bottom: 68.3px;
+	margin-right: 29px;
+}
+.right-block {
+	display: inline-block;
+	width: 570px;
+	background-color: #F2F2F2;
+	margin-left: 29px;
+	margin-bottom: 137px;
+}
+.text-block1 {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+
+	
+	padding-bottom:24.3px; 
+	padding-top: 57.5px;
+	padding-right:15px;
+	padding-left: 60.3px;
+
+	font-family: 'Sacramento', cursive;
+}
+.text-block2 {
+	display: inline-block;
+	width: 353.49px;
+	vertical-align: middle;
+	font-size: 20px;
+
+	padding-bottom:14.5px; 
+	padding-top: 53.7px;
+	padding-right:15.4px;
+	padding-left: 52.9px;
+
+	font-family: 'Sacramento', cursive;
+
+}
+.image-block1 {
+	vertical-align: middle;
+	padding-bottom: 41.7px;
+	padding-left: 38.8px;
+}
+.image-block2{
+	vertical-align: middle;
+	padding-bottom: 36.1px;
+	padding-left: 63.3px;
+}
+.title-block {
+	margin-bottom: 12.7px;
+	font-size: 22px;
+	color: #3D58A6;
+	font-family: 'Seymour One';
+}
+.article-title{
+	margin-bottom: 17.5px;
+	font-size: 20px;
+	font-family: 'Arial GEO Bold';
+
+}
+.title{
+	font-size: 24px;
+	margin-top: 117.6px;
+	margin-bottom: 29.8px;
+	margin-left: 98px;
+	font-family: 'Seymour One';
+}
+h4{
+	font-size: 22px;
+	color: #3D58A6;
+	margin-top:11.1px;
+	margin-left: 17.6px;
+}
+/*footer*/
+.foot{
+	margin-bottom: 38.7px;
+}
+.divider {
+	width: 2px;
+	height:26.67px;
+	background-color:#363E97;
+	display: inline-block;
+	margin-right:35.6px;
+	margin-left:30.2px ;
+}
+.fb{
+	margin-left: 98px;
+	width: 14px;
+	height: 30px;
+
+}
+.date {
+	width: 52px;
+	height: 64px;
+	background-color: #3D58A6;
+	font-size: 48px;
+	color:#FFFFFF;
+	margin-top: 35.8px;
+	margin-bottom: 6.9px;
+}
+.body1{
+	margin-left: 30px;
+}
+
+.month{
+	width: 63px;
+	height: 30px;
+	font-size: 22px;
+	margin-bottom: 17.5px;
+}
+.maisi{
+	color: #3D58A6;
+	font-family: 'Arial GEO Bold';
+}
+
+.picture{
+	margin-right: 39px;
+	vertical-align: top;
+	display: inline-block;
+}
+.text{
+	vertical-align: top;
+	display: inline-block;
+	width: 929.02px;
+	height:487px;
+	font-family: "Arial GEO BoldItalic", sans-serif;
+}
+.text1{
+	margin-bottom: 24px;
+	font-size:16px; 
+	
+}	
+.box1{
+	display: inline-block;
+	/*margin-top: 51.5px;
+	margin-right:63.7px;
+	margin-bottom:420.5px;
+	margin-left: 97.3px;*/
+	margin: 51.5px 63.7px 420.5px 97.3px;
+}
+.box2 {
+	display: inline-block;
+	margin-top: 39px;
+	margin-right: 95.5px;
+	margin-bottom: 66.5px;
+
+
+/*contact page styles*/
+/*.contact-title {
+	text-align: center;
+}*/
+
+}
+.peri {
+	background-color: #E6E6E6;
+	margin-bottom: 31.7px;
+}
+.contact-lb {
+	display: inline-block;
+	vertical-align: top;
+	margin-right:63.7px;
+	margin-left: 97.3px;
+	margin-top: 51.5px; 
+}
+.contact-rb {
+	display: inline-block;
+	vertical-align: top;
+}
+.container {
+	width: 1366px;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	margin: 0 auto;
+}
+.container1 {
+	width: 1170px;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	margin: 0 auto;
+}
+.span1 {
+	color: #808080;
+	font-size: 16px;
+	font-family: "Arial GEO BoldItalic", sans-serif;
+}
+.contact-title {
+	color: #3D58A6;
+	font-size: 20px;
+	font-family: 'Arial GEO Bold';
+}
+/*fonts*/
 .kartuli-relatiuri {
-	font-family: 'ALK Life';
-	font-weight: bold;
-}
-.latinuri-absolituri {
-	font-family: 'Roboto', sans-serif;
-	letter-spacing: 5px;
-	text-indent: 30px;
-	line-height: 30px;
-	text-transform: capitalize;
-	font-style: italic;
-}
-.latinuri-relatiuri {
-	font-family: 'Akaya Telivigala';
+	font-family: 'Arial GEO Bold';
 }
